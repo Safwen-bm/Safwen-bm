@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Safwen Benelmabrouk
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:111827&height=200&section=header&text=Safwen%20Benelmabrouk&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 ### Full Stack Developer | Software Engineer
 
@@ -10,73 +10,93 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Full Stack Developer** with strong experience in building **modern, scalable, and production-ready applications**.  
-I work across **frontend, backend, and DevOps**, with a strong focus on **clean architecture, performance, and real-world business logic**.
+I am a **Full Stack Developer** with hands-on experience in building **scalable, maintainable, and production-ready applications**.  
+I work across **frontend, backend, databases, and DevOps**, with a strong focus on **clean architecture, performance, and real-world business logic**.
 
-I enjoy solving complex problems, designing solid systems, and continuously improving my technical depth.
+I am passionate about **system design**, **backend engineering**, and **shipping high-quality software**.
 
 ---
 
-## 🧠 Core Expertise
+## 🧠 Core Competencies
 
 - Full Stack Web Development  
-- Backend Architecture & APIs  
+- Backend Architecture & API Design  
 - DevOps & Containerization  
-- Database Design & Optimization  
-- System Design & Scalability  
+- Database Modeling & Optimization  
+- Scalable System Design  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Stack
 
-### Frontend
-- Next.js  
-- React.js  
-- JavaScript (ES6+)  
-- TypeScript  
-- Tailwind CSS  
+### 🌐 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,tailwind" />
+</p>
 
-### Backend
-- NestJS  
-- Node.js  
-- REST APIs  
+### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs" />
+</p>
 
-### Mobile
-- Flutter  
+### 📱 Mobile
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter" />
+</p>
 
-### Databases & ORM
-- PostgreSQL  
-- MongoDB  
-- Prisma  
+### 🗄️ Databases & ORM
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
+</p>
 
-### DevOps & Tools
-- Docker  
-- DevOps Fundamentals  
-- Linux  
-- Git & GitHub  
+### 🚀 DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
+</p>
 
-### Programming & AI
-- Python  
-- NLP (Natural Language Processing)  
+### 🤖 Programming & AI
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
 ---
 
-## 🚀 What I’m Working On
+## 🚀 What I’m Currently Working On
 
-- Building **real-world full stack applications**
+- Building **enterprise-level full stack applications**
 - Designing **dynamic business rule engines**
-- Improving **backend performance & architecture**
-- Strengthening **DevOps and deployment workflows**
+- Improving **backend performance and scalability**
+- Strengthening **DevOps pipelines & deployments**
 
 ---
 
-## 📈 GitHub Stats
+## 📌 Featured Focus Areas
+
+- Clean Architecture  
+- Microservices & Modular Systems  
+- REST APIs & Backend Validation  
+- Secure Authentication & Authorization  
+- Performance Optimization  
+
+---
+
+## 📈 GitHub Statistics
 
 <div align="center">
 
-![Safwen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Safwen-bm&show_icons=true&theme=default&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Safwen-bm&show_icons=true&hide_border=true&theme=transparent" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Safwen-bm&layout=compact&theme=default&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safwen-bm&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Safwen-bm&theme=flat&no-frame=true&row=1" />
 
 </div>
 
@@ -84,12 +104,12 @@ I enjoy solving complex problems, designing solid systems, and continuously impr
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/Safwen-bm  
+- 🔗 GitHub: https://github.com/Safwen-bm  
 
 ---
 
 <div align="center">
 
-⭐ *Focused on quality, scalability, and real-world impact.*
+### ⭐ Engineering software with quality, scalability, and real-world impact.
 
 </div>
