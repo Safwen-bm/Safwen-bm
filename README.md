@@ -1,115 +1,104 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:111827&height=200&section=header&text=Safwen%20Benelmabrouk&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Safwen%20Benelmabrouk&fontAlign=50&fontAlignY=40&color=gradient&animation=fadeIn&fontSize=42" />
 
-### Full Stack Developer | Software Engineer
+### Full Stack Developer • Software Engineer  
+*Building scalable systems with clean architecture & real-world logic*
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I am a **Full Stack Developer** with hands-on experience in building **scalable, maintainable, and production-ready applications**.  
-I work across **frontend, backend, databases, and DevOps**, with a strong focus on **clean architecture, performance, and real-world business logic**.
+I’m a **Full Stack Developer** experienced in building **modern, scalable, and production-ready applications**.  
+I work across **frontend, backend, databases, and DevOps**, with a strong focus on **clean architecture, performance, and maintainability**.
 
-I am passionate about **system design**, **backend engineering**, and **shipping high-quality software**.
+I’m comfortable working on **complex business logic**, **API-driven systems**, and **end-to-end application delivery** — whether for **jobs, startups, or freelance projects**.
 
 ---
 
-## 🧠 Core Competencies
+## 🧠 What I Do Best
 
-- Full Stack Web Development  
+- Full Stack Web & Mobile Development  
 - Backend Architecture & API Design  
-- DevOps & Containerization  
 - Database Modeling & Optimization  
+- DevOps & Containerization  
 - Scalable System Design  
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Technologies & Tools
 
 ### 🌐 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,tailwind" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,tailwind&perline=6" />
 </p>
 
 ### ⚙️ Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs&perline=6" />
 </p>
 
 ### 📱 Mobile
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter" />
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter&perline=6" />
 </p>
 
 ### 🗄️ Databases & ORM
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma&perline=6" />
 </p>
 
-### 🚀 DevOps & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
+### 🚀 DevOps & Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github&perline=6" />
 </p>
 
 ### 🤖 Programming & AI
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python&perline=6" />
 </p>
 
 ---
 
-## 🚀 What I’m Currently Working On
+## 🚀 Current Focus
 
-- Building **enterprise-level full stack applications**
-- Designing **dynamic business rule engines**
-- Improving **backend performance and scalability**
-- Strengthening **DevOps pipelines & deployments**
-
----
-
-## 📌 Featured Focus Areas
-
-- Clean Architecture  
-- Microservices & Modular Systems  
-- REST APIs & Backend Validation  
-- Secure Authentication & Authorization  
-- Performance Optimization  
+- Designing **clean backend architectures**
+- Building **real-world full stack applications**
+- Implementing **dynamic business rules**
+- Improving **DevOps workflows & deployments**
+- Strengthening **system design skills**
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Safwen-bm&show_icons=true&hide_border=true&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api?username=Safwen-bm&show_icons=true&hide_border=true&theme=transparent" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safwen-bm&layout=compact&hide_border=true&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safwen-bm&layout=compact&hide_border=true&theme=transparent" height="165" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🤝 Connect With Me
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Safwen-bm&theme=flat&no-frame=true&row=1" />
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-- 🔗 GitHub: https://github.com/Safwen-bm  
+<p align="left">
+  <a href="https://www.linkedin.com/in/safwen-ben-mabrouk-494721362">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:safwenbenmabrouk@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ Engineering software with quality, scalability, and real-world impact.
+### ⭐ Focused on quality, scalability, and real-world impact.
 
 </div>
