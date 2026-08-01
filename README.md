@@ -1,25 +1,23 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0f172a,100:020617&text=Safwen%20Benelmabrouk&fontSize=42&fontColor=ffffff&fontAlignY=55" />
-
 <p>
-  <strong>Full Stack Developer • Software Engineer</strong><br/>
+  <strong>Full Stack Software Engineer</strong><br/>
   Building scalable systems with clean architecture & real-world logic
 </p>
-
 </div>
 
 ---
 
 ## 👋 About Me
 
-I am a **Full Stack Developer** with solid experience in designing and building  
-**modern, scalable, and maintainable applications**.
+I am a **Full Stack Software Engineer** with hands-on experience designing and building
+**modern, scalable, and maintainable applications**, from internships to real production systems.
 
 I work confidently across **frontend, backend, databases, and DevOps**, with a strong focus on:
-- clean architecture  
-- performance  
-- long-term maintainability  
+
+- clean architecture
+- performance
+- long-term maintainability
 
 I enjoy working on **complex business logic**, **API-driven systems**, and **end-to-end product development**, for both **jobs and freelance projects**.
 
@@ -27,11 +25,11 @@ I enjoy working on **complex business logic**, **API-driven systems**, and **end
 
 ## 🧠 Expertise Areas
 
-- Full Stack Web & Mobile Development  
-- Backend Architecture & API Design  
-- Database Modeling & Optimization  
-- DevOps & Containerization  
-- Scalable System Design  
+- Full Stack Web & Mobile Development
+- Backend Architecture & API Design
+- Database Modeling & Optimization
+- DevOps & Containerization
+- Scalable System Design
 
 ---
 
@@ -61,6 +59,8 @@ I enjoy working on **complex business logic**, **API-driven systems**, and **end
 <div>
   <img src="https://skillicons.dev/icons?i=postgres" height="42"/>
   <img src="https://skillicons.dev/icons?i=mongodb" height="42"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="42"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="42"/>
   <img src="https://skillicons.dev/icons?i=prisma" height="42"/>
 </div>
 
@@ -92,11 +92,8 @@ I enjoy working on **complex business logic**, **API-driven systems**, and **end
 ## 📊 GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Safwen-bm&show_icons=true&hide_border=true&theme=transparent" height="165"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Safwen-bm&show_icons=true&hide_border=true&theme=transparent&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safwen-bm&layout=compact&hide_border=true&theme=transparent" height="165"/>
-
 </div>
 
 ---
@@ -107,6 +104,9 @@ I enjoy working on **complex business logic**, **API-driven systems**, and **end
   <a href="https://www.linkedin.com/in/safwen-ben-mabrouk-494721362">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"/>
   </a>
+  <a href="https://portfolio-project-psi-black.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=vercel"/>
+  </a>
   <a href="mailto:safwenbenmabrouk@gmail.com">
     <img src="https://img.shields.io/badge/Email-safwenbenmabrouk@gmail.com-111827?style=flat-square&logo=gmail"/>
   </a>
@@ -115,7 +115,5 @@ I enjoy working on **complex business logic**, **API-driven systems**, and **end
 ---
 
 <div align="center">
-
 <strong>Engineering software with clarity, scalability, and purpose.</strong>
-
 </div>
