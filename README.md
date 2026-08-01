@@ -79,6 +79,17 @@ I enjoy working on **complex business logic**, **API-driven systems**, and **end
 
 ---
 
+## 💡 Highlights
+
+- **RBAC & Multi-Tenant Systems** — built granular role-based access control isolating data per workspace, folder, and member (DocuMind)
+- **RAG & Semantic Search** — implemented a RAG pipeline with `pgvector` for instant retrieval across large document sets (DocuMind)
+- **AI / Machine Learning** — trained and deployed `XGBoost` + `KNN` models via a `FastAPI` microservice for real-time price prediction (Used Car Price Analyzer)
+- **Real-Time Systems** — real-time collaborative editing with `Socket.io` and live video consultations with `WebRTC`
+- **Payments** — integrated `Stripe` for course purchases and subscription-based content unlocking
+- **CI/CD & Docker** — containerized services and automated testing/deployment pipelines with GitHub Actions
+
+---
+
 ## 🚀 Current Focus
 
 - Designing **robust backend architectures**
@@ -92,8 +103,9 @@ I enjoy working on **complex business logic**, **API-driven systems**, and **end
 ## 📊 GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Safwen-bm&show_icons=true&hide_border=true&theme=transparent&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safwen-bm&layout=compact&hide_border=true&theme=transparent" height="165"/>
+  <img src="https://img.shields.io/github/followers/Safwen-bm?label=Followers&style=for-the-badge&color=0f172a"/>
+  <img src="https://img.shields.io/github/stars/Safwen-bm?label=Stars&style=for-the-badge&color=0f172a"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Safwen-bm/repos&query=$.length()&label=Public%20Repos&style=for-the-badge&color=0f172a"/>
 </div>
 
 ---
