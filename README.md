@@ -1,131 +1,107 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0f172a,100:020617&text=Safwen%20Benelmabrouk&fontSize=42&fontColor=ffffff&fontAlignY=55" />
-<p>
-  <strong>Full Stack Software Engineer</strong><br/>
-  Building scalable systems with clean architecture & real-world logic
-</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:312e81,100:0891b2&text=Safwen%20Ben%20Mabrouk&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" alt="Safwen Ben Mabrouk" />
+
+<a href="https://github.com/Safwen-bm">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&lines=ASP.NET+Core+%7C+C%23+%7C+React+%7C+Next.js+%7C+TypeScript;I+build+complete+web+apps%2C+from+database+to+UI;RAG+%7C+Real-time+systems+%7C+Clean+architecture" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/safwen-ben-mabrouk">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://safwen-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="mailto:safwenbenmabrouk@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-0891b2?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+🟢 **Open to work** · Full-time · Contract · Freelance · On-site, hybrid or remote
+
 </div>
 
 ---
 
 ## 👋 About Me
 
-I am a **Full Stack Software Engineer** with hands-on experience designing and building
-**modern, scalable, and maintainable applications**, from internships to real production systems.
+I'm a **Full-Stack Software Engineer** who builds complete web applications, from the database to the user interface, with a focus on **clean, tested and maintainable code**.
 
-I work confidently across **frontend, backend, databases, and DevOps**, with a strong focus on:
-
-- clean architecture
-- performance
-- long-term maintainability
-
-I enjoy working on **complex business logic**, **API-driven systems**, and **end-to-end product development**, for both **jobs and freelance projects**.
+My stack is centered on **ASP.NET Core, C#, React, Next.js and TypeScript**, and I also work with **Node.js and NestJS**. I've built projects with **AI features** (RAG, LLMs, machine learning), **APIs** and **real-time collaborative systems**, and I adapt quickly to a team's tools and working methods.
 
 ---
 
-## 🧠 Expertise Areas
+## 🛠️ Tech Stack
 
-- Full Stack Web & Mobile Development
-- Backend Architecture & API Design
-- Database Modeling & Optimization
-- DevOps & Containerization
-- Scalable System Design
+| | |
+|:--|:--|
+| **Backend** | <img src="https://skillicons.dev/icons?i=dotnet,cs,nestjs,nodejs,express,fastapi" height="42"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs" height="42"/> |
+| **Databases & ORM** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma" height="42"/> |
+| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,vercel,linux,git,github" height="42"/> |
+| **Languages & AI** | <img src="https://skillicons.dev/icons?i=py,java,c" height="42"/> &nbsp; RAG · NLP · LLMs · Embeddings |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,firebase" height="42"/> |
 
 ---
 
-## 🛠️ Technologies
+## 🚀 Featured Projects
 
-### 🌐 Frontend
-<div>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="42"/>
-  <img src="https://skillicons.dev/icons?i=react" height="42"/>
-  <img src="https://skillicons.dev/icons?i=typescript" height="42"/>
-  <img src="https://skillicons.dev/icons?i=javascript" height="42"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="42"/>
-</div>
+| Project | What it does | Stack |
+|:--|:--|:--|
+| **DocuMind**<br/>*Final-year project* | AI-powered document management platform. Multi-workspace with role-based access control, a RAG pipeline to query documents, and real-time collaborative editing. | Next.js · NestJS · PostgreSQL/pgvector · Prisma · Socket.IO · Stripe · Docker |
+| **AutoValu** | Used-car price analyzer trained on 3,000+ Tunisian listings. KNN combined with two specialized XGBoost models, served through a FastAPI API and an admin dashboard. | Next.js · FastAPI · Python · XGBoost · KNN |
+| **Secure Medical Teleconsultation** | Telemedicine platform with real-time video consultations, doctor approval by administrators, and the full appointment lifecycle: booking, Stripe payment, consultation and medical record. | React · Node.js · Express · MongoDB · WebRTC · Stripe |
 
-### ⚙️ Backend
-<div>
-  <img src="https://skillicons.dev/icons?i=nestjs" height="42"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="42"/>
-</div>
-
-### 📱 Mobile
-<div>
-  <img src="https://skillicons.dev/icons?i=flutter" height="42"/>
-</div>
-
-### 🗄️ Databases & ORM
-<div>
-  <img src="https://skillicons.dev/icons?i=postgres" height="42"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="42"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="42"/>
-  <img src="https://skillicons.dev/icons?i=firebase" height="42"/>
-  <img src="https://skillicons.dev/icons?i=prisma" height="42"/>
-</div>
-
-### 🚀 DevOps & Environment
-<div>
-  <img src="https://skillicons.dev/icons?i=docker" height="42"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="42"/>
-  <img src="https://skillicons.dev/icons?i=git" height="42"/>
-  <img src="https://skillicons.dev/icons?i=github" height="42"/>
-</div>
-
-### 🤖 Programming & AI
-<div>
-  <img src="https://skillicons.dev/icons?i=python" height="42"/>
-</div>
+More projects on my [portfolio](https://safwen-portfolio.vercel.app).
 
 ---
 
 ## 💡 Highlights
 
-- **RBAC & Multi-Tenant Systems** — built granular role-based access control isolating data per workspace, folder, and member (DocuMind)
-- **RAG & Semantic Search** — implemented a RAG pipeline with `pgvector` for instant retrieval across large document sets (DocuMind)
-- **AI / Machine Learning** — trained and deployed `XGBoost` + `KNN` models via a `FastAPI` microservice for real-time price prediction (Used Car Price Analyzer)
-- **Real-Time Systems** — real-time collaborative editing with `Socket.io` and live video consultations with `WebRTC`
-- **Payments** — integrated `Stripe` for course purchases and subscription-based content unlocking
-- **CI/CD & Docker** — containerized services and automated testing/deployment pipelines with GitHub Actions
+- **RBAC & multi-workspace systems**: granular access control isolating data per workspace, folder and member (DocuMind)
+- **RAG & semantic search**: document querying with `pgvector` (DocuMind)
+- **Machine learning in production**: `XGBoost` + `KNN` models exposed through a `FastAPI` service (AutoValu)
+- **Real-time systems**: collaborative editing with `Socket.IO` and live video consultations with `WebRTC`
+- **Payments**: `Stripe` integration for subscriptions and appointment booking
+- **Business logic decoupling**: separated financial rules from the core codebase of a production banking system so pricing logic could be updated without redeploying (SWConsulting internship)
+- **CI/CD & Docker**: containerized services with automated tests and deployment pipelines using GitHub Actions
 
 ---
 
-## 🚀 Current Focus
+## 🎯 Current Focus
 
-- Designing **robust backend architectures**
-- Building **production-grade full stack systems**
-- Implementing **dynamic business rules**
-- Improving **DevOps & deployment pipelines**
-- Deepening **system design & scalability** skills
+- Going deeper into **.NET**: ASP.NET Core, C# and clean architecture
+- Building **production-grade full-stack systems**
+- Improving **DevOps and deployment pipelines**
+- Strengthening **system design and scalability** skills
 
 ---
 
-## 📊 GitHub Activity
+## 🎓 Certifications
+
+- **Harvard University**: CS50x, Introduction to Computer Science (2026)
+- **AWS Academy Graduate**: Cloud Foundations (2024)
+- **Cisco CCNA**: Switching, Routing, and Wireless Essentials (2024)
+
+---
+
+## 📊 GitHub
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/Safwen-bm?label=Followers&style=for-the-badge&color=0f172a"/>
-  <img src="https://img.shields.io/github/stars/Safwen-bm?label=Stars&style=for-the-badge&color=0f172a"/>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Safwen-bm/repos&query=$.length()&label=Public%20Repos&style=for-the-badge&color=0f172a"/>
+  <img src="https://img.shields.io/github/followers/Safwen-bm?label=Followers&style=for-the-badge&logo=github&color=0f172a"/>
+  <img src="https://img.shields.io/github/stars/Safwen-bm?label=Stars&style=for-the-badge&logo=github&color=0f172a"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Safwen-bm&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=0f172a"/>
 </div>
 
 ---
 
-## 🤝 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/safwen-ben-mabrouk-494721362">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"/>
-  </a>
-  <a href="https://portfolio-project-psi-black.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=vercel"/>
-  </a>
-  <a href="mailto:safwenbenmabrouk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-safwenbenmabrouk@gmail.com-111827?style=flat-square&logo=gmail"/>
-  </a>
-</p>
-
----
-
 <div align="center">
-<strong>Engineering software with clarity, scalability, and purpose.</strong>
+
+**Engineering software with clarity, scalability, and purpose.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0891b2,50:312e81,100:020617&section=footer" />
+
 </div>
