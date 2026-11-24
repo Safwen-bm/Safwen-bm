@@ -36,14 +36,15 @@ My stack is centered on **ASP.NET Core, C#, React, Next.js and TypeScript**, and
 
 ## 🛠️ Tech Stack
 
-| | |
+| Category | Technologies |
 |:--|:--|
-| **Backend** | <img src="https://skillicons.dev/icons?i=dotnet,cs,nestjs,nodejs,express,fastapi" height="42"/> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs" height="42"/> |
-| **Databases & ORM** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma" height="42"/> |
-| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,vercel,linux,git,github" height="42"/> |
-| **Languages & AI** | <img src="https://skillicons.dev/icons?i=py,java,c" height="42"/> &nbsp; RAG · NLP · LLMs · Embeddings |
-| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,firebase" height="42"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind" height="42"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=dotnet,nestjs,nodejs,express,fastapi" height="42"/> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,py,java,cs,c" height="42"/> |
+| **AI / Machine Learning** | NLP · LLMs · RAG · Embeddings |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" height="42"/> |
+| **Cloud / DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel,render" height="42"/> |
+| **Tools & Methodologies** | <img src="https://skillicons.dev/icons?i=git,linux,postman" height="42"/> Agile / Scrum |
 
 ---
 
