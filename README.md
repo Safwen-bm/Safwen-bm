@@ -41,10 +41,10 @@ My stack is centered on **ASP.NET Core, C#, React, Next.js and TypeScript**, and
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind" height="42"/> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=dotnet,nestjs,nodejs,express,fastapi" height="42"/> |
 | **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,py,java,cs,c" height="42"/> |
-| **AI / Machine Learning** | NLP · LLMs · RAG · Embeddings |
+| **AI / Machine Learning** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" height="42"/> <img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square" height="24"/> <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square" height="24"/> <img src="https://img.shields.io/badge/RAG-00897B?style=flat-square" height="24"/> <img src="https://img.shields.io/badge/Embeddings-546E7A?style=flat-square" height="24"/> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" height="42"/> |
 | **Cloud / DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel,render" height="42"/> |
-| **Tools & Methodologies** | <img src="https://skillicons.dev/icons?i=git,linux,postman" height="42"/> Agile / Scrum |
+| **Tools & Methodologies** | <img src="https://skillicons.dev/icons?i=git,linux,postman,jira" height="42"/> <img src="https://img.shields.io/badge/Agile-2496ED?style=flat-square" height="24"/> <img src="https://img.shields.io/badge/Scrum-6DB33F?style=flat-square" height="24"/> |
 
 ---
 
